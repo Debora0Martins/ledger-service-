@@ -36,6 +36,5 @@ jobs:
         with:
           name: ledger-service-jar
           path: target/*.jar
-          
-          Atualização para testar o CI Pipeline
+
 
