@@ -1,7 +1,3 @@
-README.md — Ledger Service (Versão Sênior e Profissional)
-
-⚠️ Você só vai precisar copiar e colar no seu repositório!
-
 <h1 align="center">💰 Ledger Service — Microservice Financeiro com Spring Boot + Kafka + Postgres</h1>
 
 <p align="center">
